@@ -7,7 +7,11 @@ body {
   background: #fffafa;
 }
 
-.f-box, .nav-bg{
+.nav-bg{
+  background-color: #6366f1;
+}
+
+.f-box{
   background-color: #6366f1;
 }
 
