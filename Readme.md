@@ -8,7 +8,7 @@ A simple command-line tool for downloading Tamil MP3 songs organized by categori
 - **Batch Downloads**: Download entire albums or individual songs
 - **High Quality**: 320kbps MP3 audio support
 - **Organized Output**: Songs automatically sorted into folders by category and album
-- **Easy to Use**: Interactive menu-driven interface
+- **Easy to Use**: Interactive menu-driven interface.
 
 ## What's Included
 
